@@ -1,6 +1,6 @@
 //
-//  ViewController.swift
-//  todolisttest
+//  SecondViewController.swift
+//  todolistproj
 //
 //  Created by David T Judd on 3/4/17.
 //  Copyright © 2017 Tracer Tech. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

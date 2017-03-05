@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>todolisttest.xcscheme</key>
+		<key>todolistproj.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C434FBFE1E6B8A4A00DD7108</key>
+		<key>C434FC1C1E6B8D6600DD7108</key>
 		<dict>
 			<key>primary</key>
 			<true/>

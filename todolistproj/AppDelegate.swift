@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  todolisttest
+//  todolistproj
 //
 //  Created by David T Judd on 3/4/17.
 //  Copyright © 2017 Tracer Tech. All rights reserved.
